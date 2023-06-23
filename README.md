@@ -1,8 +1,8 @@
 # AS projects
 
-## Projects done under the course Software Arquitectures at the University of Aveiro.
+## Projects done under the course Software Arquitectures at the University of Aveiro
 
-All projects are done using Java programming language and its GUI interface Java Swing.
+All projects are done using Java programming language and its GUI interface Java Swing
 
 - The first project consists of a concurrency program to manage various entities which interact in various rooms of an hostel
 
