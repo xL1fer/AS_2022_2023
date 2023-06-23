@@ -1,0 +1,1 @@
+../bin/windows/kafka-topics.bat --create --bootstrap-server localhost:9092,localhost:9093,localhost:9094 --replication-factor 1 --partitions 3 --topic Sensor

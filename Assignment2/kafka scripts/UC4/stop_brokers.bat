@@ -1,0 +1,1 @@
+../bin/windows/kafka-server-stop.bat
